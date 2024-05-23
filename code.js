@@ -2,11 +2,12 @@
 let greeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
 
 // Assign 3 variables
-// Creating first variable
+
+// Creating first variable calculated using addition
 const first = 5 + 5;
-// Creating second variable
+// Creating second variable calculated using multiplication
 const second = 10 * 4;
-// Creating third variable
+// Creating third variable calculated using subtraction
 const third = 40 - 1;
 
 // Concatenating the 3 code numbers onto the greeting message
