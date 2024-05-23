@@ -1,8 +1,7 @@
-// Greet the user
+// Create the greeting for the user
 let greeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
 
 // Assign 3 variables
-
 // Creating first variable
 const first = 5 + 5;
 // Creating second variable
